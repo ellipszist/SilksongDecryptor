@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SilksongDecryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "-decrypt \"E:\\Games\\Hollow Knight Silksong\\Hollow Knight Silksong_Data\\Texts\""
+    }
+  }
+}
